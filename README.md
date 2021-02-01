@@ -1,3 +1,3 @@
 #### Hi,
 
-I'm Andre Pratama, currently work as Frontend Engineer at **Pomona**. I'm passionate about web & mobile technologies, open sources project and Progressive Metal music enthusiast 🤘
+I'm Andre Pratama, currently work as Frontend Engineer. I'm passionate about web & mobile technologies, open sources project and Progressive Metal music enthusiast 🤘
